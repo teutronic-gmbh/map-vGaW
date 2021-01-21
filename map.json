@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/virtuelle-grundschule-am-wall.net\/ttt\/wunschbrunnen.html"
+                 "value":"http:\/\/virtuelle-grundschule-am-wall.net\/ttt\/wunschbrunnen.html"
                 }],
          "type":"tilelayer",
          "visible":true,
