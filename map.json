@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/virtuelle-grundschule-am-wall.net\/ttt\/wunschbrunnen.html"
+                 "value":"https:\/\/shop.teutronic.de\/ttt\/wunschbrunnen.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/virtuelle-grundschule-am-wall.net\/ttt\/wunschbrunnen.html"
+                 "value":"https:\/\/shop.teutronic.de\/ttt\/vogelscheuche.html"
                 }],
          "type":"tilelayer",
          "visible":true,
