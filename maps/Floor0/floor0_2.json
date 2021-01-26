@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Floor0\/floor0.json"
+                 "value":"..\/Floor0\/floor0.json#from-north"
                 }],
          "type":"tilelayer",
          "visible":true,
