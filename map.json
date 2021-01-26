@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/v.angelcam.com\/iframe?v=049rj272y2"
+                 "value":"https:\/\/shop.teutronic.de\/ttt\/bienenkorb.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1218,6 +1218,24 @@
                         }]
                 }, 
                 {
+                 "id":155,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":163,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
                  "id":176,
                  "properties":[
                         {
@@ -1381,6 +1399,15 @@
                 }, 
                 {
                  "id":197,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":235,
                  "properties":[
                         {
                          "name":"collides",
