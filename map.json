@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/shop.teutronic.de\/ttt\/bienenkorb.html\nhttps:\/\/v.angelcam.com\/iframe?v=049rj272y2"
+                 "value":"https:\/\/v.angelcam.com\/iframe?v=049rj272y2"
                 }],
          "type":"tilelayer",
          "visible":true,
